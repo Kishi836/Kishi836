@@ -1,6 +1,6 @@
 # Kshitij G Shettigar
 
-Third-year CS undergrad at PES University, Bangalore. I build systems software: VM internals, crypto tooling, and the plumbing between machines.
+Third-year CS undergrad at PES University, Bangalore, minoring in Medical Innovations and Technology. Currently an IoT & Robotics intern at Tripple One Solutions. I build systems software: VM internals, crypto tooling, and the plumbing between machines.
 
 **Now building:** [parakaya](https://github.com/Kishi836/parakaya), a Rust VM that migrates live processes between a PC, a Raspberry Pi, a phone and a cloud VM, across CPU architectures, surviving power loss mid-hop.
 
